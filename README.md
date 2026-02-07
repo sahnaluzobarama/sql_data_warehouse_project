@@ -4,4 +4,5 @@ Building a mordern data  warehouse with SQL Server, including ETL Process data m
 #High Level Data Architecture
 ![data_architecture](docs/data_architecture.png)
 
-
+#Data Flow 
+![data_flow](docs/data_flow.png)
